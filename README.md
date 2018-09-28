@@ -1,5 +1,5 @@
 # HTB-writeup
-Password-protected writeups for HTB platforms (challenges and machines)
+Password-protected writeups for HTB platform (challenges and boxes)
 
 **Challenges and Boxes Writeups are password protected with the corresponding flag or `root` flag.**
 
