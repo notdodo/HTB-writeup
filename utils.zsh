@@ -5,6 +5,7 @@ gen_pdf_writeup_box() {
   local root_flag=$(cat writeup.md | rg -A 4 "## Flags" | rg "\`root\`" | rg "[[:alnum:]]{32}" -o)
   pandoc -V geometry:margin=1cm writeup.md --pdf-engine=xelatex -o /tmp/${writeup_name}.pdf && \
   qpdf --encrypt ${root_flag} ${root_flag} 128 --use-aes=y -- /tmp/${writeup_name}.pdf ${writeup_name}.pdf
+  rm /tmp/${writeup_name}.pdf
 }
 
 gen_pdf_writeup_chl() {
