@@ -13,6 +13,6 @@ Website: [hackthebox.eu](https://www.hackthebox.eu/)
 
 > The platform allows to spawn/upload/pwn machines (using a VPN) and presents some challenges like Web, Misc, Crypto, Pwn, Reversing, etc.
 
-**WARNINGS**: Some files in these folders could be dangerous (backdoor, reverse-shell, exploit, shellcode, ...) use them at your own risk.
+**WARNING**: Some files in these folders could be dangerous (backdoor, reverse-shell, exploit, shellcode, ...) use them at your own risk.
 
 <https://www.hackthebox.eu/profile/1752>
