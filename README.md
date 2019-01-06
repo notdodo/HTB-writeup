@@ -16,3 +16,7 @@ Website: [hackthebox.eu](https://www.hackthebox.eu/)
 **WARNING**: Some files in these folders could be dangerous (backdoor, reverse-shell, exploit, shellcode, ...) use them at your own risk.
 
 <https://www.hackthebox.eu/profile/1752>
+
+## Publicly available writeups
+
+<https://medium.com/@eDodo90>
