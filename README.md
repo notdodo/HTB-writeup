@@ -19,4 +19,6 @@ Website: [hackthebox.eu](https://www.hackthebox.eu/)
 
 ## Publicly available writeups
 
+<https://cesena.github.io/>
+
 <https://medium.com/@eDodo90>
