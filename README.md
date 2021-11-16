@@ -21,4 +21,4 @@ Website: [hackthebox.eu](https://www.hackthebox.eu/)
 
 <https://cesena.github.io/>
 
-<https://medium.com/@eDodo90>
+<https://medium.com/@notdodo>
